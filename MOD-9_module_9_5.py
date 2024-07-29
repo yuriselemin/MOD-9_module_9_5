@@ -1,7 +1,5 @@
 
-
-
-
+# Домашнее задание по теме "Итераторы"
 
 
 class StepValueError(ValueError):
